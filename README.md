@@ -3,7 +3,7 @@
 ### FullStack Developer
 <img align="right" width="370" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRqbXp1cGgzNXhxeDZsc2J3bzA2cXJvNnM3dWVxaHNhMjB2bnloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 Here's my [portfolio](https://ajaym-portfolio.vercel.app/)                                                 
+- 🔭 Here's my [portfolio](https://amalraj143.github.io/MyPortfolio/)                                                 
 - 👯 Currently I’m seeking for a job 
 - 📫 How to reach me :
 <br/><br/>
